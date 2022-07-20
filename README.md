@@ -1,6 +1,8 @@
 
 <h1 align="center">Hola 👋, soy Sabrina Demetrio</h1>
 <h3 align="center">Full Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" />
 
 Bienvenido a mi repositorio donde podrás visualizar los proyectos que he realizado durante estos cuatro meses en **Coding Bootcamp de Plataforma 5**
 
