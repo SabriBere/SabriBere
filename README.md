@@ -4,7 +4,7 @@
 
 Bienvenido a mi repositorio donde podrás visualizar los proyectos que he realizado durante estos cuatro meses en **Coding Bootcamp de Plataforma 5**
 
-En mi portafolio, enontraras más información sobre la descripción de proyectos, pero aquí podrás ver el desarrollo lógico y la aplicación de los conocimientos técnicos. 
+En mi portafolio, enontraras más información sobre la descripción de estos, pero aquí podrás ver el desarrollo lógico y la aplicación de los conocimientos técnicos. 
 
 **Proyectos qué podrás encontrar:** 
 <ul>
