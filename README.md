@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Sabrina Demetrio</h1>
 <h3 align="center">Full Stack Developer</h3>
    <div align="center" width="0px">
-<img   src="https://media0.giphy.com/media/eVSqI3mZYfaDIXYsnS/giphy.gif?cid=ecf05e474w30rorz6443k24a9h50defl9jfuli7453ufnkmg&rid=giphy.gif&ct=g" alt="sabribere" width=300 heigth=300/>
+<img   src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" alt="sabribere" width=200 heigth=200/>
 </div>
 
 Bienvenido a mi repositorio donde podrás visualizar los proyectos que he realizado durante estos cuatro meses en el **Coding Bootcamp de Plataforma 5**
@@ -53,7 +53,12 @@ En mi portafolio, enontraras más información sobre la descripción de estos, p
 
 
 <h3 align="left">Stadistics:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabribere&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sabribere" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabribere&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sabribere" width="485"/>
+   &nbsp;
+   &nbsp;
+   &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabribere&show_icons=true&theme=dracula&locale=en" alt="sabribere" />
+</p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sabribere&show_icons=true&theme=dracula&locale=en" alt="sabribere" /></p>
 
