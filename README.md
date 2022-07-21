@@ -1,6 +1,11 @@
-
+<body>
+ 
+  
 <h1 align="center">Hola 👋, soy Sabrina Demetrio</h1>
 <h3 align="center">Full Stack Developer</h3>
+   <div align="center" width="0px">
+<img   src="https://media0.giphy.com/media/eVSqI3mZYfaDIXYsnS/giphy.gif?cid=ecf05e474w30rorz6443k24a9h50defl9jfuli7453ufnkmg&rid=giphy.gif&ct=g" alt="sabribere" />
+</div>
 
 Bienvenido a mi repositorio donde podrás visualizar los proyectos que he realizado durante estos cuatro meses en el **Coding Bootcamp de Plataforma 5**
 
@@ -15,23 +20,23 @@ En mi portafolio, enontraras más información sobre la descripción de estos, p
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sabrina-demetrio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabrina-demetrio/" height="30" width="40" /></a>
-</p>
 
 <p align="center">
   <a href="mailto:sabrinademetrio96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:borjapazr@gmail.com"/></a>&nbsp;&nbsp;
-  
   <a href=""><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/FR9R8dH"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sabrina-demetrio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/borjapazr"/></a>
-</p>
+  </p>
   
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+  <h3 align="left">Lenguages and Stacks:</h3>
+</p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-blue?style=flat-square&logo=sequelize&logoColor=white"/>
   <img alt="Express" src="https://img.shields.io/badge/-Express-202124?style=flat-square&logo=express&logoColor=white" />  
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-My%20Sql-orange?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-F8754B?style=flat-square&logo=html5&logoColor=white" />
@@ -54,6 +59,12 @@ En mi portafolio, enontraras más información sobre la descripción de estos, p
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabribere&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sabribere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabribere&show_icons=true&theme=dracula&locale=en" alt="sabribere" /></p>
+
+
+</body>
+
+
+
 
 
 
