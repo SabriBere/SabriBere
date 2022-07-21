@@ -1,6 +1,3 @@
-<body>
- 
-  
 <h1 align="center">Hola 👋, soy Sabrina Demetrio</h1>
 <h3 align="center">Full Stack Developer</h3>
    <div align="center" width="0px">
@@ -59,15 +56,4 @@ En mi portafolio, enontraras más información sobre la descripción de estos, p
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabribere&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sabribere" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sabribere&show_icons=true&theme=dracula&locale=en" alt="sabribere" /></p>
-
-
-</body>
-
-
-
-
-
-
-
-
 
