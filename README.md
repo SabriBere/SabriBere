@@ -4,7 +4,7 @@
 <h1 align="center">Hola 👋, soy Sabrina Demetrio</h1>
 <h3 align="center">Full Stack Developer</h3>
    <div align="center" width="0px">
-<img   src="https://media0.giphy.com/media/eVSqI3mZYfaDIXYsnS/giphy.gif?cid=ecf05e474w30rorz6443k24a9h50defl9jfuli7453ufnkmg&rid=giphy.gif&ct=g" alt="sabribere" />
+<img   src="https://media0.giphy.com/media/eVSqI3mZYfaDIXYsnS/giphy.gif?cid=ecf05e474w30rorz6443k24a9h50defl9jfuli7453ufnkmg&rid=giphy.gif&ct=g" alt="sabribere" width=300 heigth=300/>
 </div>
 
 Bienvenido a mi repositorio donde podrás visualizar los proyectos que he realizado durante estos cuatro meses en el **Coding Bootcamp de Plataforma 5**
