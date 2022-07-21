@@ -28,9 +28,9 @@ En mi portafolio, enontraras más información sobre la descripción de estos, p
   </p>
   
   <h3 align="left">Lenguages and Stacks:</h3>
-</p>
+  
+<p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-blue?style=flat-square&logo=sequelize&logoColor=white"/>
@@ -58,7 +58,7 @@ En mi portafolio, enontraras más información sobre la descripción de estos, p
 <h3 align="left">Stadistics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabribere&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sabribere" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabribere&show_icons=true&theme=dracula&locale=en" alt="sabribere" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sabribere&show_icons=true&theme=dracula&locale=en" alt="sabribere" /></p>
 
 
 </body>
