@@ -10,9 +10,9 @@ En mi portafolio, enontraras más información sobre la descripción de estos, p
 
 **Proyectos qué podrás encontrar:** 
 <ul>
-   <li><h3><a href='https://github.com/SabriBere/TMDb-FlixMovies'>:clapper: TMDB - FlixMovie </a></h3></li>
-<li><a href='https://github.com/SabriBere/E-commerce_SixCoffee'>E-commerce - Six - Coffee </a></li>
-<li><a href='https://github.com/SabriBere/Bumeran_Selecta'>Proyecto Profesional - Bumeran Selecta  </a></li>
+   <li><h3><a href='https://github.com/SabriBere/TMDb-FlixMovies'>:clapper: TMDB - FlixMovie </a></li>
+<li><h3><a href='https://github.com/SabriBere/E-commerce_SixCoffee'>:coffee: E-commerce - Six - Coffee </a></h3></li>
+<li><h3><a href='https://github.com/SabriBere/Bumeran_Selecta'>:woman_teacher: Proyecto Profesional - Bumeran Selecta  </a></h3></li>
 </ul>
 
 
