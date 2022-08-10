@@ -3,7 +3,10 @@
    <div align="center" width="0px">
 <img   src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" alt="sabribere" width=200 heigth=200/>
 </div>
-Soy de Argentina 	:argentina: y tengo muchas ganas de seguir aprendiendo y desarrollandome profesionalmente. 
+<h3 align="center">Soy de Argentina :argentina: y tengo muchas ganas de seguir aprendiendo y desarrollandome profesionalmente.</h3>
+ 
+<br/>
+<br/>
 
 En este repositorio podrás visualizar todos los proyectos que he realizado durante estos cuatro meses en el **Coding Bootcamp de Plataforma 5**
 
