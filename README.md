@@ -10,7 +10,7 @@ En mi portafolio, enontraras más información sobre la descripción de estos, p
 
 **Proyectos qué podrás encontrar:** 
 <ul>
-   <li><a href='https://github.com/SabriBere/TMDb-FlixMovies'><h3>:clapper: TMDB - FlixMovie</h3> </a></li>
+   <li><h3><a href='https://github.com/SabriBere/TMDb-FlixMovies'>:clapper: TMDB - FlixMovie </a></h3></li>
 <li><a href='https://github.com/SabriBere/E-commerce_SixCoffee'>E-commerce - Six - Coffee </a></li>
 <li><a href='https://github.com/SabriBere/Bumeran_Selecta'>Proyecto Profesional - Bumeran Selecta  </a></li>
 </ul>
