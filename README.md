@@ -12,7 +12,7 @@ En este repositorio podrás visualizar todos los proyectos que he realizado dura
 
 En mi portafolio, enontraras más información sobre la descripción de estos, pero aquí podrás ver el desarrollo lógico y la aplicación de los conocimientos técnicos. 
 
-**Proyectos qué podrás encontrar:** 
+<h4>**Proyectos qué podrás encontrar:**</h4> 
 <ul>
 <li><h3><a href='https://github.com/SabriBere/TMDb-FlixMovies'>:clapper: TMDB - FlixMovie </a></li>
 <li><h3><a href='https://github.com/SabriBere/E-commerce_SixCoffee'>:coffee: E-commerce - Six - Coffee </a></h3></li>
