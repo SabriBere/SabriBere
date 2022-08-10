@@ -3,8 +3,9 @@
    <div align="center" width="0px">
 <img   src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" alt="sabribere" width=200 heigth=200/>
 </div>
+Soy de Argentina 	:argentina: y tengo muchas ganas de seguir aprendiendo y desarrollandome profesionalmente. 
 
-Bienvenido a mi repositorio donde podrás visualizar los proyectos que he realizado durante estos cuatro meses en el **Coding Bootcamp de Plataforma 5**
+En este repositorio podrás visualizar todos los proyectos que he realizado durante estos cuatro meses en el **Coding Bootcamp de Plataforma 5**
 
 En mi portafolio, enontraras más información sobre la descripción de estos, pero aquí podrás ver el desarrollo lógico y la aplicación de los conocimientos técnicos. 
 
