@@ -16,7 +16,14 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,sequelize" />
 
 #### 🧰 Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,jira,sourcetree,postman,figma,ubuntu" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,ubuntu" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/sourcetree.svg" height="40" alt="Sourcetree" />
+</p>
+
+
 
 ---
 
