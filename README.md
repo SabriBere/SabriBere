@@ -18,9 +18,9 @@
 #### 🧰 Tools & Others
 
 <p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="Jira" />
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,ubuntu" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/sourcetree.svg" height="40" alt="Sourcetree" />
 </p>
 
 
