@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,sequelize" />
 
 #### 🧰 Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,ubuntu" />
+<img src="https://skillicons.dev/icons?i=git,github,jira,sourcetree,postman,figma,ubuntu" />
 
 ---
 
