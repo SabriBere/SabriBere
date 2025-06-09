@@ -28,6 +28,8 @@
 <p style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" height="40" alt="Sourcetree" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" height="40" alt="ESLint" />
+  <img src="https://cdn.jsdelivr.net/gh/PKief/vscode-material-icon-theme@main/icons/prettier.svg" height="40" alt="Prettier" />
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,ubuntu" />
 </p>
 
