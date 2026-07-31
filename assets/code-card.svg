@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">About Sabrina</title>
+  <desc id="description">A JavaScript code card describing Sabrina as a Full Stack Developer in Buenos Aires.</desc>
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="rgba(255,255,255,.055)"/>
+    </pattern>
+    <radialGradient id="violetGlow" cx="8%" cy="5%" r="75%">
+      <stop offset="0%" stop-color="oklch(65% 0.19 300)" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="oklch(65% 0.19 300)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="94%" cy="92%" r="70%">
+      <stop offset="0%" stop-color="oklch(70% 0.15 220)" stop-opacity=".14"/>
+      <stop offset="100%" stop-color="oklch(70% 0.15 220)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="oklch(65% 0.19 300)" stop-opacity=".7"/>
+      <stop offset="50%" stop-color="rgba(255,255,255,.08)"/>
+      <stop offset="100%" stop-color="oklch(70% 0.15 220)" stop-opacity=".65"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .code { font: 600 20px "JetBrains Mono", monospace; }
+      .number { font: 500 16px "JetBrains Mono", monospace; fill: rgba(255,255,255,.22); text-anchor: end; }
+      .plain { fill: rgba(255,255,255,.88); }
+      .keyword { fill: oklch(70% 0.15 220); }
+      .property { fill: rgba(255,255,255,.72); }
+      .string { fill: oklch(65% 0.19 300); }
+      .punctuation { fill: rgba(255,255,255,.42); }
+    </style>
+  </defs>
+
+  <rect width="1200" height="430" rx="24" fill="#07070a"/>
+  <rect width="1200" height="430" rx="24" fill="url(#dots)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#violetGlow)"/>
+  <rect width="1200" height="430" rx="24" fill="url(#cyanGlow)"/>
+
+  <rect x="42" y="32" width="1116" height="366" rx="16" fill="#101015" stroke="url(#border)" stroke-width="1.5"/>
+  <path d="M42 84 H1158" stroke="rgba(255,255,255,.08)"/>
+
+  <circle cx="72" cy="58" r="6" fill="#EC4899"/>
+  <circle cx="94" cy="58" r="6" fill="#A855F7"/>
+  <circle cx="116" cy="58" r="6" fill="#22D3EE"/>
+  <text x="600" y="64" font-family="JetBrains Mono, monospace" font-size="15" font-weight="600" fill="rgba(255,255,255,.42)" text-anchor="middle">about-me.js</text>
+  <text x="1128" y="64" font-family="JetBrains Mono, monospace" font-size="14" fill="oklch(70% 0.15 220)" text-anchor="end" filter="url(#glow)">JavaScript</text>
+
+  <path d="M116 104 V374" stroke="rgba(255,255,255,.06)"/>
+
+  <g>
+    <text class="number" x="94" y="132">1</text>
+    <text class="number" x="94" y="174">2</text>
+    <text class="number" x="94" y="216">3</text>
+    <text class="number" x="94" y="258">4</text>
+    <text class="number" x="94" y="300">5</text>
+    <text class="number" x="94" y="342">6</text>
+  </g>
+
+  <g class="code">
+    <text x="142" y="132"><tspan class="keyword">const</tspan><tspan class="plain"> sabrina </tspan><tspan class="punctuation">=</tspan><tspan class="plain"> {</tspan></text>
+    <text x="174" y="174"><tspan class="property">role</tspan><tspan class="punctuation">: </tspan><tspan class="string">"Full Stack Developer"</tspan><tspan class="punctuation">,</tspan></text>
+    <text x="174" y="216"><tspan class="property">location</tspan><tspan class="punctuation">: </tspan><tspan class="string">"Buenos Aires, Argentina"</tspan><tspan class="punctuation">,</tspan></text>
+    <text x="174" y="258"><tspan class="property">currentFocus</tspan><tspan class="punctuation">: [</tspan><tspan class="string">"React"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"Node.js"</tspan><tspan class="punctuation">, </tspan><tspan class="string">"clean code"</tspan><tspan class="punctuation">],</tspan></text>
+    <text x="174" y="300"><tspan class="property">mindset</tspan><tspan class="punctuation">: </tspan><tspan class="string">"Curious mind. Constant learner."</tspan><tspan class="punctuation">,</tspan></text>
+    <text x="142" y="342"><tspan class="plain">}</tspan><tspan class="punctuation">;</tspan></text>
+  </g>
+</svg>

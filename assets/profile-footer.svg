@@ -1,0 +1,37 @@
+<svg width="1600" height="180" viewBox="0 0 1600 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Thanks for visiting my profile</title>
+  <desc id="description">A dark footer with violet and cyan neon accents matching the profile header.</desc>
+  <defs>
+    <radialGradient id="violetGlow" cx="14%" cy="80%" r="60%">
+      <stop offset="0%" stop-color="oklch(65% 0.19 300)" stop-opacity=".30"/>
+      <stop offset="100%" stop-color="oklch(65% 0.19 300)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="88%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="oklch(70% 0.15 220)" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="oklch(70% 0.15 220)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="oklch(65% 0.19 300)"/>
+      <stop offset="100%" stop-color="oklch(70% 0.15 220)"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="rgba(255,255,255,.07)"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-100%" width="200%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="180" fill="#07070a"/>
+  <rect width="1600" height="180" fill="url(#dots)"/>
+  <rect width="1600" height="180" fill="url(#violetGlow)"/>
+  <rect width="1600" height="180" fill="url(#cyanGlow)"/>
+  <line x1="0" y1="0.5" x2="1600" y2="0.5" stroke="rgba(255,255,255,.08)"/>
+
+  <text x="800" y="91" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="26" font-weight="700" fill="#FFFFFF" letter-spacing="1" filter="url(#glow)">Thanks for visiting my profile</text>
+  <rect x="710" y="116" width="180" height="4" rx="2" fill="url(#accent)" filter="url(#glow)"/>
+</svg>
