@@ -1,0 +1,84 @@
+<svg width="1600" height="740" viewBox="0 0 1600 740" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Sabrina's tech stack</title>
+  <desc id="description">Frontend, backend, data, and workflow technologies in violet and cyan neon cards.</desc>
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="rgba(255,255,255,.07)"/>
+    </pattern>
+    <radialGradient id="violetGlow" cx="10%" cy="20%" r="52%">
+      <stop offset="0%" stop-color="oklch(65% 0.19 300)" stop-opacity=".20"/>
+      <stop offset="100%" stop-color="oklch(65% 0.19 300)" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanGlow" cx="90%" cy="80%" r="52%">
+      <stop offset="0%" stop-color="oklch(70% 0.15 220)" stop-opacity=".18"/>
+      <stop offset="100%" stop-color="oklch(70% 0.15 220)" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .section { font: 700 14px "JetBrains Mono", monospace; fill: rgba(255,255,255,.5); letter-spacing: 4px; text-anchor: middle; }
+      .label { font: 600 13px Onest, Arial, sans-serif; fill: rgba(255,255,255,.78); text-anchor: middle; }
+      .mark { font: 800 20px "JetBrains Mono", monospace; text-anchor: middle; }
+      .card { fill: rgba(255,255,255,.045); stroke-width: 1.5; }
+      .violet { stroke: oklch(65% 0.19 300); }
+      .violet-text { fill: oklch(65% 0.19 300); }
+      .cyan { stroke: oklch(70% 0.15 220); }
+      .cyan-text { fill: oklch(70% 0.15 220); }
+    </style>
+  </defs>
+
+  <rect width="1600" height="740" rx="24" fill="#07070a"/>
+  <rect width="1600" height="740" rx="24" fill="url(#dots)"/>
+  <rect width="1600" height="740" rx="24" fill="url(#violetGlow)"/>
+  <rect width="1600" height="740" rx="24" fill="url(#cyanGlow)"/>
+  <rect x=".75" y=".75" width="1598.5" height="738.5" rx="23.25" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="1.5"/>
+
+  <path d="M0 60 H1600" stroke="rgba(255,255,255,.08)"/>
+  <circle cx="32" cy="30" r="6" fill="#EC4899"/>
+  <circle cx="54" cy="30" r="6" fill="#A855F7"/>
+  <circle cx="76" cy="30" r="6" fill="#22D3EE"/>
+  <text x="800" y="36" font-family="JetBrains Mono, monospace" font-size="15" font-weight="600" fill="rgba(255,255,255,.48)" text-anchor="middle">stack.js</text>
+  <text x="1568" y="36" font-family="JetBrains Mono, monospace" font-size="14" fill="oklch(70% 0.15 220)" text-anchor="end">JavaScript</text>
+
+  <g transform="translate(0,60)">
+  <text class="section" x="800" y="48">FRONTEND</text>
+  <g>
+    <g><rect class="card violet" x="342" y="76" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="380" y="122">JS</text><text class="label" x="380" y="176">JavaScript</text></g>
+    <g><rect class="card violet" x="462" y="76" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="500" y="122">TS</text><text class="label" x="500" y="176">TypeScript</text></g>
+    <g><rect class="card violet" x="582" y="76" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="620" y="122">Re</text><text class="label" x="620" y="176">React</text></g>
+    <g><rect class="card violet" x="702" y="76" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="740" y="122">Nx</text><text class="label" x="740" y="176">Next.js</text></g>
+    <g><rect class="card violet" x="822" y="76" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="860" y="122">Rx</text><text class="label" x="860" y="176">Redux</text></g>
+    <g><rect class="card violet" x="942" y="76" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="980" y="122">H5</text><text class="label" x="980" y="176">HTML5</text></g>
+    <g><rect class="card violet" x="1062" y="76" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="1100" y="122">C3</text><text class="label" x="1100" y="176">CSS3</text></g>
+    <g><rect class="card violet" x="1182" y="76" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="1220" y="122">Sa</text><text class="label" x="1220" y="176">Sass</text></g>
+  </g>
+
+  <text class="section" x="800" y="260">BACKEND &amp; DATA</text>
+  <g>
+    <g><rect class="card cyan" x="402" y="288" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="440" y="334">Nd</text><text class="label" x="440" y="388">Node.js</text></g>
+    <g><rect class="card cyan" x="522" y="288" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="560" y="334">Ex</text><text class="label" x="560" y="388">Express</text></g>
+    <g><rect class="card cyan" x="642" y="288" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="680" y="334">Pg</text><text class="label" x="680" y="388">PostgreSQL</text></g>
+    <g><rect class="card cyan" x="762" y="288" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="800" y="334">Mo</text><text class="label" x="800" y="388">MongoDB</text></g>
+    <g><rect class="card cyan" x="882" y="288" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="920" y="334">Su</text><text class="label" x="920" y="388">Supabase</text></g>
+    <g><rect class="card cyan" x="1002" y="288" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="1040" y="334">Pr</text><text class="label" x="1040" y="388">Prisma</text></g>
+    <g><rect class="card cyan" x="1122" y="288" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="1160" y="334">Sq</text><text class="label" x="1160" y="388">Sequelize</text></g>
+  </g>
+
+  <text class="section" x="800" y="472">TOOLS &amp; WORKFLOW</text>
+  <g>
+    <g><rect class="card violet" x="342" y="500" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="380" y="546">Gt</text><text class="label" x="380" y="600">Git</text></g>
+    <g><rect class="card cyan" x="462" y="500" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="500" y="546">Gh</text><text class="label" x="500" y="600">GitHub</text></g>
+    <g><rect class="card violet" x="582" y="500" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="620" y="546">Bb</text><text class="label" x="620" y="600">Bitbucket</text></g>
+    <g><rect class="card cyan" x="702" y="500" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="740" y="546">Je</text><text class="label" x="740" y="600">Jest</text></g>
+    <g><rect class="card violet" x="822" y="500" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="860" y="546">Fg</text><text class="label" x="860" y="600">Figma</text></g>
+    <g><rect class="card cyan" x="942" y="500" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="980" y="546">Po</text><text class="label" x="980" y="600">Postman</text></g>
+    <g><rect class="card violet" x="1062" y="500" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark violet-text" x="1100" y="546">Lx</text><text class="label" x="1100" y="600">Linux</text></g>
+    <g><rect class="card cyan" x="1182" y="500" width="76" height="76" rx="16" filter="url(#glow)"/><text class="mark cyan-text" x="1220" y="546">Vc</text><text class="label" x="1220" y="600">Vercel</text></g>
+  </g>
+  </g>
+</svg>
