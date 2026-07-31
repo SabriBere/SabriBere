@@ -65,8 +65,8 @@
     <g><rect x="726" y="152" width="112" height="50" rx="12" fill="rgba(168,85,247,.10)" stroke="oklch(65% 0.19 300)"/><text class="step" x="782" y="183">deploy</text></g>
     <text class="arrow" x="863" y="183">→</text>
     <g><rect x="888" y="152" width="112" height="50" rx="12" fill="rgba(34,211,238,.08)" stroke="oklch(70% 0.15 220)"/><text class="step" x="944" y="183">learn</text></g>
-    <text class="arrow" x="1025" y="183">→</text>
-    <g><rect x="1050" y="152" width="112" height="50" rx="12" fill="rgba(168,85,247,.10)" stroke="oklch(65% 0.19 300)"/><text class="step" x="1106" y="183">improve</text></g>
+    <text class="arrow" x="1015" y="183">→</text>
+    <g><rect x="1030" y="152" width="112" height="50" rx="12" fill="rgba(168,85,247,.10)" stroke="oklch(65% 0.19 300)"/><text class="step" x="1086" y="183">improve</text></g>
   </g>
 
   <text class="comment" x="78" y="258">// I enjoy creating solutions that balance a great user experience,</text>
